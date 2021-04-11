@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - UIBackground
+  - UIInvisible
+  - UI3DModule0
+  - UI3DModule1
+  - UI3DModule2
+  - Stage
+  - CaptureLayer
+  - HUD
+  - DarkScene
+  - DarkHud
+  - Effect
+  - Distortion
+  - Scene
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - OutLineEffect
+  m_SortingLayers:
+  - name: Scene
+    uniqueID: 4223778135
+    locked: 0
+  - name: Gezi
+    uniqueID: 188716589
+    locked: 0
+  - name: GeziEffect
+    uniqueID: 1059765241
+    locked: 0
+  - name: GeziEffectTop
+    uniqueID: 334325327
+    locked: 0
+  - name: CharacterIdleEffect
+    uniqueID: 805421211
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: SkillGeziEffect
+    uniqueID: 1798788605
+    locked: 0
+  - name: Hit
+    uniqueID: 3410648613
+    locked: 0
+  - name: ScreenEffect
+    uniqueID: 2466852343
+    locked: 0
